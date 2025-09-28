@@ -6,7 +6,7 @@ This project is a Progressive Web Application (PWA) for managing inventory. It i
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/AlejandroRodriguezCastro/LDAP-DAII-G3.git
+   git clone https://github.com/josecastineiras/inventory.git
    cd inventory
 
 
